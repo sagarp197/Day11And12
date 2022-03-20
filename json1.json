@@ -1,0 +1,58 @@
+{
+  "TypesOfRice": [
+    {
+      "Name": "Basmati",
+      "Weight": "5",
+      "Price": "340"
+    },
+    {
+      "Name": "Brown",
+      "Weight": "10",
+      "Price": "300"
+    },
+    {
+      "Name": "Arborio",
+      "Weight": "8",
+      "Price": "260"
+    }
+
+  ],
+
+  "TypesOfPulses": [
+    {
+      "Name": "Bengal Gram",
+      "Weight": "10",
+      "Price": "180"
+    },
+    {
+      "Name": "Green Gram",
+      "Weight": "5",
+      "Price": "100"
+    },
+    {
+      "Name": "Black Gram",
+      "Weight": "7",
+      "Price": "120"
+    }
+
+  ],
+  "TypesOfWheats": [
+    {
+      "Name": "Soft White",
+      "Weight": "10",
+      "Price": "220"
+    },
+    {
+      "Name": "Hard White",
+      "Weight": "8",
+      "Price": "240"
+    },
+    {
+      "Name": "Hard Red Winter",
+      "Weight": "12",
+      "Price": "425"
+    }
+
+  ]
+}
+
